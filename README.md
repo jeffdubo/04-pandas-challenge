@@ -4,9 +4,9 @@ The following files are located in this repo
 
 README.md - This file which contains the written report
 PyCitySchools folder
- - PyCitySchools.ipynb - Jupyter notebook with analysis of school and student datae
- - Resources/schools_complete.csv - school data for analysis
- - Resources/students_complete.csv - school data for analysis
+1. PyCitySchools.ipynb - Jupyter notebook with analysis of school and student datae
+2. Resources/schools_complete.csv - school data for analysis
+3. Resources/students_complete.csv - school data for analysis
 
 Written Report
 
